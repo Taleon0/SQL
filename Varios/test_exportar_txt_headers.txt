@@ -1,0 +1,11 @@
+ID|Nombre|Liga|ValorEuropa
+20801|Cristiano Ronaldo|Spanish Primera Divisi¢n|95500000.0000
+158023|L. Messi|Spanish Primera Divisi¢n|105000000.0000
+190871|Neymar|French Ligue 1|123000000.0000
+176580|L. Su rez|Spanish Primera Divisi¢n|97000000.0000
+167495|M. Neuer|German Bundesliga|61000000.0000
+188545|R. Lewandowski|German Bundesliga|92000000.0000
+193080|De Gea|English Premier League|64500000.0000
+183277|E. Hazard|English Premier League|90500000.0000
+182521|T. Kroos|Spanish Primera Divisi¢n|79000000.0000
+167664|G. Higua¡n|Italian Serie A|77000000.0000
