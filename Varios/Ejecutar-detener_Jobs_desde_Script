@@ -1,0 +1,7 @@
+-- EJECUTAR UN JOB 
+
+EXEC msdb.dbo.sp_start_job N'JOB_A_EJECUTAR'; 
+
+-- DETENER UN JOB 
+
+EXEC msdb.dbo.sp_stop_job N'JOB_A_DETENER';
